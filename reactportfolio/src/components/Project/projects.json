@@ -2,14 +2,14 @@
   {
     "id": 1,
     "title": "Top Shelf",
-    "image": "./Top Shelf.png",
+    "image": "./assets/Top Shelf.png",
     "caption": "Book and drink pairing made easy.",
     "url": "https://danielalexvega.github.io/Project1/index.html"
   },
   {
     "id": 2,
     "title": "The Employee Directory",
-    "image": "./Employee-Directory.png",
+    "image": "./assets/Employee-Directory.png",
     "caption": "A React-based online employee finder tool for your firm's intranet",
     "url": "https://wsglobe.github.io/Employee-Directory/"
   },

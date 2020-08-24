@@ -4,6 +4,7 @@ import ProjectContent from "../components/Project/ProjectContent";
 import "./Portfolio.css";
 import projects from "../components/Project/projects.json";
 import ProjectContext from "../utils/ProjectContext";
+//import testImage from "../../assets/workday.png";
 
 function Portfolio() {
   const [projectState, setProjectState] = useState({

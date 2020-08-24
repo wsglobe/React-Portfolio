@@ -1,8 +1,9 @@
 import React from "react";
 import Header from "../components/Header/Header";
 import "./About.css";
-
+import profileImage from "../assets/WW.JPG";
 function About() {
+  console.log('about component loading');
   return (
     <div>
       <Header
@@ -16,7 +17,7 @@ function About() {
             <img
               id="bio-image"
               alt="myimage"
-              src="./WW.JPG"
+              src={profileImage}
               align="left"
               className="img-fluid"
             />
