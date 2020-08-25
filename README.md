@@ -1,7 +1,7 @@
 # React-Portfolio
 Personal portfolio page created using React.js
 ### GitHub:https://github.com/wsglobe/React-Portfolio
-### Deployed Website:https://wsglobe.github.io/about/
+### Deployed Website:https://wsglobe.github.io/React-Portfolio/
 ### Future Development:
 1. update Linkedin and Resume after getting feedback from Career Services.
 2. Add favicon on about page.
