@@ -9,63 +9,63 @@
   {
     "id": 2,
     "title": "The Employee Directory",
-    "image": "./assets/Employee-Directory.png",
+    "image": "../../assets/Employee-Directory.png",
     "caption": "A React-based online employee finder tool for your firm's intranet",
     "url": "https://wsglobe.github.io/Employee-Directory/"
   },
   {
     "id": 3,
     "title": "The Budget Tracker",
-    "image": "./Budget-Tracker.png",
+    "image": "../../assets/Budget-Tracker.png",
     "caption": "A budget tracker for travellers, so you can record your transactions wherever you are in the world",
     "url": "https://week18budgettracker.herokuapp.com/"
   },
   {
     "id": 4,
     "title": "The Fitness Tracker",
-    "image": "./Fitness-Tracker.png",
+    "image": "../../assets/Fitness-Tracker.png",
     "caption": "An online fitness tracker application to create and track your workouts",
     "url": "https://fitness-tracker-002.herokuapp.com/"
   },
   {
     "id": 5,
     "title": "The Burger Shop",
-    "image": "./burger.png",
+    "image": "../../assets/burger.png",
     "caption": "Hungry? Visit our burger shop and order your favourite burgers!",
     "url": "https://lit-everglades-39619.herokuapp.com/"
   },
   {
     "id": 6,
     "title": "The Employee Tracker",
-    "image": "./e-tracker1.png",
+    "image": "../../assets/e-tracker1.png",
     "caption": "A command line interface (CLI) to easily manage your employee database",
     "url": "https://github.com/wsglobe/Employee-Tracker"
   },
   {
     "id": 7,
     "title": "Employee Summary Generator",
-    "image": "./e-summary.png",
+    "image": "../../assets/e-summary.png",
     "caption": "A command line interface (CLI) to generate a team roster with individual employee information for team management.",
     "url": "https://github.com/sevenspell/week10-assignment"
   },
   {
     "id": 8,
     "title": "The Weather Dashboard",
-    "image": "./weather.png",
+    "image": "../../assets/weather.png",
     "caption": " A weather application that that allows the user to search for the weather conditions of any city in the world.",
     "url": ""
   },
   {
     "id": 9,
     "title": "The Workday Scheduler",
-    "image": "./workday.png",
+    "image": "../../assets/workday.png",
     "caption": "An online scheduler to help you plan and manage your work day so you can make it fully productive",
     "url": ""
   },
   {
     "id": 10,
     "title": "Fit Feed",
-    "image": "./Fit Feed.png",
+    "image": "../../assets/Fit Feed.png",
     "caption": "Social networking application built to connect health conscious users through workout videos, nutritional recipes, and resources for self development.",
     "url": "https://fitfeed123.herokuapp.com/"
   }
