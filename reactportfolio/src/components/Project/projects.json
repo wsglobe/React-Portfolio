@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Top Shelf",
-    "image": "./assets/Top Shelf.png",
+    "image": "../../assets/Top Shelf.png",
     "caption": "Book and drink pairing made easy.",
     "url": "https://danielalexvega.github.io/Project1/index.html"
   },
